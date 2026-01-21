@@ -1,20 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Prophetic Nexus Network (PXN)
 
-# Run and deploy your AI Studio app
+The Prophetic Nexus Network (PXN) is an innovative platform designed to revolutionize how interconnected systems within the network process and share information. By leveraging advanced algorithms and machine learning, the PXN aims to create a seamless flow of data that enhances decision-making and predictive analytics.
 
-This contains everything you need to run your app locally.
+## Overview of the Eternal Weave Project
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ymXPhc9EUTRui5v34-Eouof8xToBp_S0
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The Eternal Weave project is a vital component of the PXN, focused on establishing a robust infrastructure that supports various applications within the ecosystem. This project aims to weave together different datasets and insights, creating a tapestry of information that can be accessed and utilized by stakeholders across diverse sectors. Through collaboration, transparency, and security, the Eternal Weave project is set to transform the landscape of data management and usage.
